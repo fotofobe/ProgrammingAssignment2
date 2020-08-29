@@ -3,7 +3,7 @@
 
 ## Write a short comment describing this function
 
-# makeCasheMatrix creates an object that can be used to speed up 
+# makeCacheMatrix creates an object that can be used to speed up 
 # the process of calculating the inverse of a matrix
 
 makeCacheMatrix <- function(magic = matrix()) {
